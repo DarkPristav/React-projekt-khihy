@@ -1,0 +1,20 @@
+.order-button {
+    display: block;
+    margin: 15px auto;
+    color: white;
+    font-size: 17px;
+    background-color: #73775a;
+    padding: 5px 15px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: all 0.3s linear;
+}
+
+
+.order-button:hover {
+    background-color: green;
+    transform: scale(1.02);
+    color: greenyellow;
+
+}
